@@ -1,0 +1,22 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "Input[0]" LOC = P11;
+NET "Input[1]" LOC = L3;
+NET "Input[2]" LOC = K3;
+NET "Input[3]" LOC = B4;
+NET "OutReg1[0]" LOC = M5;
+NET "OutReg1[1]" LOC = M11;
+NET "OutReg1[2]" LOC = P7;
+NET "OutReg1[3]" LOC = P6;
+NET "OutReg2[0]" LOC = N5;
+NET "OutReg2[1]" LOC = N4;
+NET "OutReg2[2]" LOC = P4;
+NET "OutReg2[3]" LOC = G1;
+NET "CLK" LOC = C8;
+NET "CLR1" LOC = A7;
+NET "CLR2" LOC = M4;
+NET "CLRBuffer" LOC = C11;
+NET "Control" LOC = G12;
+NET "OP0" LOC = E2;
+NET "OP1" LOC = N3;
