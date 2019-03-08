@@ -1,4 +1,5 @@
 # 4BitTinyProcessor-ECE375
+## Summary
 A tiny processor that can preform 4 operations <br>
 I have decided to enclude my 4 bit processor instead of the since the 8 bit. <br>
 The 8 bit processor is a **Personal project** and has a few bugs and is still in partial development. <br>
